@@ -7,7 +7,7 @@ As an Outsourced resource on the public sector, I'm going for the development ca
 
 - 🌱 Now I'm solidifying my knowledge on code. Letting aside the basics, such as HTML, CSS and JS, I'm deepening my studies on ReactJS, Tailwind and Typescript.
 Familiar with SCSS, Bootstrap, Python and SQL.
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" style="margin-left-40%"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
