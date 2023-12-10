@@ -26,5 +26,5 @@ Familiar with SCSS, Bootstrap, Python and SQL.
 - 😄 Pronouns: He/Him
   
 - ⚡ Fun fact: I'm eclectic when It comes to music, but I do prefer Heavy Metal, like avenged sevenfold or disturbed and Brazilian RAP, like Sabotage, Racionais mc's. I love reading light novels, mainly chinese, mangas (any type, manhwa, manhua or manga), and watching anime. 
--->
+
   
