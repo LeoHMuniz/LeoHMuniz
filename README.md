@@ -1,5 +1,5 @@
  ### Hello there!
-I'm Leonardo Henrique and i'm an aspiring developer!
+I'm Leonardo Henrique an aspiring developer!
 Currently studying and chasing the opportunities before they can even come to me.
 
 - 🔭 I’m currently working on my career transition/introduction.
